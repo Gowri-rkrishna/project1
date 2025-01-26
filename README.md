@@ -52,29 +52,17 @@ pip install -r requirements.txt
 
 ### Project Documentation
 For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-
+![frontend output 1](https://github.com/user-attachments/assets/483a25da-3df2-4dbe-a867-5199a0144ed2)
+This shows the interface of the app before submitting the preferences of the user
+![frontend output 2](https://github.com/user-attachments/assets/1fca5ef3-f34b-4c2b-b105-471afc1f66fd)
+This shoow the interface of the app if the preference field is left blank
+![javascript](https://github.com/user-attachments/assets/c72583ff-ce4a-42a9-8e31-cc820e66509f)
+This shows the javascript file script.js
 
 ## Team Contributions
-- Swathy J: Backend,Data base
+- Swathy J: Backend,Database
 - Gowri Krishna R: Frontend, Documentation 
-- Neha Anna Thomas: Frontend, documentation 
+- Neha Anna Thomas: Frontend, Documentation 
 
 ---
 
