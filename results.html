@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Plans</title>
+</head>
+<body>
+    <h1>Best Mobile Data Recharge Plans</h1>
+    <p>Here are the best plans for your usage:</p>
+    <ul>
+        {% for plan in plans %}
+            <li>Plan Name: {{ plan[1] }}, Data Limit: {{ plan[2] }} GB, Price: ${{ plan[3] }}</li>
+        {% else %}
+            <li>No plans found matching your criteria.</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Go Back</a>
+</body>
+</html>
