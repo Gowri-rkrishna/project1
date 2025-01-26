@@ -46,14 +46,7 @@ cd <project-directory>
 pip install -r requirements.txt
 
 3. Set up the database:
-
-
-# Run
-1. Start the application:
-  python app.py  
-2. Open your browser and visit:
-
-http://localhost:5000  
+ 
 
 
 
