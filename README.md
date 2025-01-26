@@ -1,47 +1,61 @@
-# [Project Name] 🎯
+# Affordable Jeo Plan Finder  🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Codered
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Swathy J - College of Engineering Chengannur
+- Member 2: Gowri Krishna R - College of Engineering Chengannur
+- Member 3: Neha Anna Thomas - College of Engineering Chengannur
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/Gowri-rkrishna/project1.git
 
-### Project Description
-[2-3 lines about what your project does]
-
+### Project Description 
+Affordable Jeo Plan Finder is a platform designed to help users find the most suitable and affordable telecom plans based on their preferences. It simplifies the comparison process and ensures users get the best deals.
 ### The Problem statement
-[What ridiculous problem are you solving?]
+
+Choosing the right telecom plan is often overwhelming due to the variety of options, hidden charges, and lack of personalized recommendations. Many users struggle to find the best plan that matches their needs without spending too much time or effort.
+
+
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+
+Our tool provides a straightforward, user-friendly interface where users can input their preferences, and our platform suggests the best plans tailored to their needs. Built with Python for seamless backend processing and a clean UI, this solution makes plan selection stress-free and efficient.
+
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML, CSS, Python
+- Flask
+- vs code,git
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. Clone the repository:
+git clone <repository-link>  
+cd <project-directory>  
+2.Install required dependencies:
+pip install -r requirements.txt
+
+3. Set up the database:
+
 
 # Run
-[commands]
+1. Start the application:
+  python app.py  
+2. Open your browser and visit:
+
+http://localhost:5000  
+
+
 
 ### Project Documentation
 For Software:
@@ -56,44 +70,18 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Swathy J: Backend,Data base
+- Gowri Krishna R: Front end,
+- Neha Anna Thomas: 
 
 ---
-Made with ❤️ at TinkerHub
+
