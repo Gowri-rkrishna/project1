@@ -1,4 +1,4 @@
-# Affordable Jeo Plan Finder  🎯
+# Affordable Jio Plan Finder  🎯
 
 
 ## Basic Details
@@ -14,7 +14,7 @@
 https://github.com/Gowri-rkrishna/project1.git
 
 ### Project Description 
-Affordable Jeo Plan Finder is a platform designed to help users find the most suitable and affordable telecom plans based on their preferences. It simplifies the comparison process and ensures users get the best deals.
+Affordable Jio Plan Finder is a platform designed to help users find the most suitable and affordable telecom plans based on their preferences. It simplifies the comparison process and ensures users get the best deals.
 
 ### The Problem statement
 Choosing the right telecom plan is often overwhelming due to the variety of options, hidden charges, and lack of personalized recommendations. Many users struggle to find the best plan that matches their needs without spending too much time or effort.
