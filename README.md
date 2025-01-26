@@ -65,4 +65,4 @@ This shows the javascript file script.js
 - Neha Anna Thomas: Frontend, Documentation 
 
 ---
-
+Database could not be created using scraping due to limited knowledge,experience and time.We have used a local database for the sane.
