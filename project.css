@@ -1,0 +1,138 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 20px 0;
+    color: #0056b3;
+}
+.first{
+    min-height: auto;
+    justify-content: center;
+    flex:content;
+    background-color: #ccc;
+
+
+}
+
+
+.colour {
+    background-color:#0056b3;
+}
+
+.image img {
+    max-width: 20%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.preference h2 {
+    font-size: 1.8rem;
+    color: #0056b3;
+    margin-bottom: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+input[type="number"]::placeholder {
+    color: #aaa;
+    font-size: 0.9rem;
+}
+
+input[type="number"]:focus {
+    border-color: #0056b3;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 86, 179, 0.5);
+}
+
+button.btn {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button.btn:hover {
+    background-color: #004494;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #0056b3;
+    color: white;
+    padding: 10px 0;
+    font-size: 0.9rem;
+}
+
+footer p {
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .preference h2 {
+        font-size: 1.5rem;
+    }
+
+    input[type="number"] {
+        font-size: 0.9rem;
+    }
+
+    button.btn {
+        font-size: 0.9rem;
+    }
+}
+ 
